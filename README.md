@@ -16,7 +16,7 @@ Basically, all IT-related jobs. Just remember to follow the [naming-convention](
 
 ### How to submit new job?
 
-To submit a new job, open an Issue. You can either use the Issue template `Job Posting` or create a new Issue and copy & paste the template from [HERE](ISSUE-TEMPLATE.md)  The job description MUST using Markdown and follows the [naming-convention](#naming-convention) rules  
+To submit a new job, open an Issue. You can either use the Issue template `Job Posting` or create a new Issue and copy & paste the template from [HERE](ISSUE-TEMPLATE.md).  
 
 Once submitted, the Issue is subjected to be reviewed within 7 days. Depends on the compliant level of the Issue, reviewer could ask for more information or reject the Issue. We will mostly use labels and comments for classification purposes.  
 
